@@ -16,7 +16,7 @@
      6. admin can add experts.
      7. can update booking status after user's payment.
 
-### For check admin panel login with   kobutor@gmail.com   pass:123456 
+### - For check admin panel login with   kobutor@gmail.com   pass:123456 
 
 
 
